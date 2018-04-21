@@ -1,4 +1,4 @@
-package com.sample.Lesson1.Iterations;
+package com.sample.Lesson2.Arrays;
 
 import com.sample.Lesson2.Arrays.CyclicRotation;
 import org.junit.Assert;
